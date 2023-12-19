@@ -5,6 +5,7 @@ List of cool APIs
 
 https://api.nasa.gov/
 https://www.n2yo.com/api/
+https://api.krisinformation.se/v3
 https://www.krisinformation.se/om-krisinformation/for-myndigheter-och-andra-aktorer/oppen-data
 
 Resources
